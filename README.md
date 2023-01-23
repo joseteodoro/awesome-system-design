@@ -5,70 +5,70 @@ System design links to improve tech skills. I've put those links here to help my
 
 ## Things you must know in System Design
 
-- System design basics [#](https://bit.ly/3SuUR0Y)
+- [#](https://bit.ly/3SuUR0Y) System design basics 
 
-- Horizontal and vertical scaling [#](https://bit.ly/3slq5xh)
+- [#](https://bit.ly/3slq5xh) Horizontal and vertical scaling 
 
-- Load balancing and Message queues [#](https://bit.ly/3sp0FP4)
+- [#](https://bit.ly/3sp0FP4) Load balancing and Message queues 
 
-- High-level design and low-level design, Consistent Hashing, Monolithic and Microservices architecture [#](https://bit.ly/3DnEfEm)
+- [#](https://bit.ly/3DnEfEm) High-level design and low-level design, Consistent Hashing, Monolithic and Microservices architecture 
 
-- Caching, Indexing, Proxies [#](https://bit.ly/3SvyVDc)
+- [#](https://bit.ly/3SvyVDc) Caching, Indexing, Proxies 
 
-- Networking, How Browsers work, Content Network Delivery ( CDN) [#](https://bit.ly/3TOHQRb)
+- [#](https://bit.ly/3TOHQRb) Networking, How Browsers work, Content Network Delivery ( CDN) 
 
-- Database Sharding, CAP Theorem, Database schema Design [#](https://bit.ly/3CZtfLN)
+- [#](https://bit.ly/3CZtfLN) Database Sharding, CAP Theorem, Database schema Design 
 
-- Concurrency, API, Components + OOP + Abstraction [#](https://bit.ly/3sqQrhj)
+- [#](https://bit.ly/3sqQrhj) Concurrency, API, Components + OOP + Abstraction 
 
-- Estimation and Planning, Performance [#](https://bit.ly/3z9dSPN)
+- [#](https://bit.ly/3z9dSPN) Estimation and Planning, Performance 
 
-- Map Reduce, Patterns, and Microservices [#](https://bit.ly/3zcsfmv)
+- [#](https://bit.ly/3zcsfmv) Map Reduce, Patterns, and Microservices 
 
-- SQL vs NoSQL and Cloud [#](https://bit.ly/3z8Aa49)
+- [#](https://bit.ly/3z8Aa49) SQL vs NoSQL and Cloud 
 
-- Most Popular System Design Questions [#](https://bit.ly/3Dp40Ux)
+- [#](https://bit.ly/3Dp40Ux) Most Popular System Design Questions 
 
 ## System Design Case Studies
 
-- Design Netflix [#](https://bit.ly/3GrAUG1)
+- [#](https://bit.ly/3GrAUG1) Design Netflix 
 
-- Design Reddit [#](https://bit.ly/3OgGJrL)
+- [#](https://bit.ly/3OgGJrL) Design Reddit 
 
-- Design Messenger App [#](https://bit.ly/3DoAAXi)
+- [#](https://bit.ly/3DoAAXi) Design Messenger App 
 
-- Design Instagram [#](https://bit.ly/3BFeHlh)
+- [#](https://bit.ly/3BFeHlh) Design Instagram 
 
-- Design Dropbox [#](https://bit.ly/3SnhncU)
+- [#](https://bit.ly/3SnhncU) Design Dropbox 
 
-- Design Youtube [#](https://bit.ly/3dFyvvy)
+- [#](https://bit.ly/3dFyvvy) Design Youtube 
 
-- Design Tinder [#](https://bit.ly/3Mcyj3X)
+- [#](https://bit.ly/3Mcyj3X) Design Tinder 
 
-- Design Yelp [#](https://bit.ly/3E7IgO5)
+- [#](https://bit.ly/3E7IgO5) Design Yelp 
 
-- Design Whatsapp [#](https://bit.ly/3M2GOhP)
+- [#](https://bit.ly/3M2GOhP) Design Whatsapp 
 
-- Design URL shortener [#](https://bit.ly/3xP078x)
+- [#](https://bit.ly/3xP078x) Design URL shortener 
 
-- Design Amazon Prime Video [#](https://bit.ly/3hVpWP4)
+- [#](https://bit.ly/3hVpWP4) Design Amazon Prime Video 
 
-- Design Twitter [#](https://bit.ly/3qIG9Ih)
+- [#](https://bit.ly/3qIG9Ih) Design Twitter 
 
-- Design Uber [#](https://bit.ly/3fyvnlT)
+- [#](https://bit.ly/3fyvnlT) Design Uber 
 
-- Design TikTok [#](https://bit.ly/3UUlKxP)
+- [#](https://bit.ly/3UUlKxP) Design TikTok 
 
-- Design Facebook's Newsfeed [#](https://bit.ly/3RldaW7)
+- [#](https://bit.ly/3RldaW7) Design Facebook's Newsfeed 
 
-- Design Web Crawler [#](https://bit.ly/3DPZTBB)
+- [#](https://bit.ly/3DPZTBB) Design Web Crawler 
 
-- Design API Rate Limiter [#](https://bit.ly/3BIVuh7)
+- [#](https://bit.ly/3BIVuh7) Design API Rate Limiter 
 
-- All solved case studies [#](https://bit.ly/3dCG1rc)
+- [#](https://bit.ly/3dCG1rc) All solved case studies 
 
-- System Design Important terms [#](https://bit.ly/3Om9d3H)
+- [#](https://bit.ly/3Om9d3H) System Design Important terms 
 
-- Most Popular System Design Questions [#](https://bit.ly/3E9oH7K)
+- [#](https://bit.ly/3E9oH7K) Most Popular System Design Questions 
 
-- Complete System Design Basics Series [#](https://bit.ly/3rG1cfr)
+- [#](https://bit.ly/3rG1cfr) Complete System Design Basics Series 
